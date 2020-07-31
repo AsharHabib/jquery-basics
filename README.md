@@ -1,2 +1,2 @@
 # jquery-basics
-Small projects to learn the basics of jQuery
+Several projects to learn the basics of jQuery
